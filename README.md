@@ -7,7 +7,7 @@ Display the number of delays orders with the Same Day ship mode.
 Display everage profit for each discount level, where the discount level criteria below:
 - Low if the discount is below 0.2
 - Moderate if the discount starts from 0.2 to below 0.4
-- HIgh if the discount starts from 0.4 and above
+- High if the discount starts from 0.4 and above
 
 ## Case 3
 Display the performance of Category and Subcategory of product with metrics are as follows:
