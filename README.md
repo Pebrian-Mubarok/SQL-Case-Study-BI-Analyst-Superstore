@@ -4,7 +4,7 @@
 Display the number of delays orders with the Same Day ship mode.
 
 ## Case 2
-Display everage profit for each discount level, where the discount level criteria below:
+Display average profit for each discount level, where the discount level criteria below:
 - Low if the discount is below 0.2
 - Moderate if the discount starts from 0.2 to below 0.4
 - High if the discount starts from 0.4 and above
